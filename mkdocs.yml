@@ -31,8 +31,12 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Office 365:
-      - Übersicht: office365/index.md
+      - FAQs: office365/index.md
+      - Anleitungen: office365/manuals.md
   - WebUntis:
-      - Übersicht: webuntis/index.md
+      - FAQs: webuntis/index.md
+      - Anleitungen: webuntis/manuals.md
       - Schüler Login: webuntis/students-login.md
       - Eltern Login: webuntis/parents-login.md
+  - iPads:
+      - Informationen: iPads/index.md

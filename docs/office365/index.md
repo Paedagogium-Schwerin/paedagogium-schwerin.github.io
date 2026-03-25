@@ -1,11 +1,6 @@
-# Office 365
+# Office 365 - FAQs
 
-Antworten auf die häufigsten Fragen zu Office 365.
-
----
-
-## Frequently Asked Questions
-
+## Allgemeines
 ### Was ist Office 365?
 
 Office 365 ist eine Software-Suite von Microsoft, die wir allen Schülern und Schülerinnen zur Verfügung stellen. Teil davon ist auch eine E-Mail-Adresse der Schule, über die die vorrangige Kommunikation mit den Schülern stattfindet.
@@ -20,6 +15,6 @@ Nein, die verwendeten Lizenzen erlauben nur die Nutzung der Online-Versionen von
 
 
 ---
-## 📖 Deep Dive Manuals
+## 📖 Anleitungen
 
 Werden in Kürze ergänzt.
