@@ -9,9 +9,9 @@ theme:
   name: material
   language: de
   palette:
-    - scheme: slate
+    - scheme: default
       primary: white
-      accent: blue grey
+      accent: amber
   features:
     - navigation.sections
     - toc.integrate
