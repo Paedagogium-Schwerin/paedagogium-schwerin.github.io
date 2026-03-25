@@ -20,10 +20,6 @@ Nein, die verwendeten Lizenzen erlauben nur die Nutzung der Online-Versionen von
 
 
 ---
-
 ## 📖 Deep Dive Manuals
 
-| Manual | Description |
-|--------|-------------|
-| [Invoice Manual](invoices-manual.md) | Downloading, disputing, and understanding your invoices |
-| [Subscription Manual](subscriptions-manual.md) | Upgrading, downgrading, and managing your plan |
+Werden in Kürze ergänzt.
