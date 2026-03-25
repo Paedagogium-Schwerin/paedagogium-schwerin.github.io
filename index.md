@@ -1,7 +1,3 @@
----
-title: Start
----
-
 # Willkommen am Pädagogium Schwerin
 
 Auf dieser Seite finden Sie Informationen und Hilfestellungen für die meisten unserer technischen Themen. Darunter Office 365, WebUntis und iPad-Klassen.
