@@ -9,8 +9,8 @@ theme:
   name: material
   language: de
   palette:
-    - scheme: default
-      primary: blue grey
+    - scheme: slate
+      primary: white
       accent: blue grey
   features:
     - navigation.sections
