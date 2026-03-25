@@ -2,6 +2,7 @@ title: Support extern
 # site_url: https://wiki.mycompany.com
 description: Häufig gestellte Fragen und Anleitungen für die Nutzung unserer Dienste.
 
+remote_theme: pages-themes/cayman@v0.2.0
 theme:
   name: cayman
   palette:
@@ -28,3 +29,4 @@ nav:
 
 plugins:
   - search
+  - jekyll-remote-theme
