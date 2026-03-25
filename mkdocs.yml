@@ -8,31 +8,14 @@ site_dir: site
 theme:
   name: material
   language: de
-  font:
-    text: IBM Plex Sans
-    code: JetBrains Mono
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: teal
-      accent: amber
-      toggle:
-        icon: material/weather-night
-        name: Zu dunklem Modus wechseln
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: teal
-      accent: amber
-      toggle:
-        icon: material/weather-sunny
-        name: Zu hellem Modus wechseln
+    - scheme: default
+      primary: blue grey
+      accent: blue grey
   features:
-    - navigation.tabs
     - navigation.sections
-    - navigation.top
-    - search.suggest
+    - toc.integrate
     - search.highlight
-    - toc.follow
 
 plugins:
   - search
@@ -44,9 +27,6 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
-
-extra_css:
-  - stylesheets/extra.css
 
 nav:
   - Home: index.md
