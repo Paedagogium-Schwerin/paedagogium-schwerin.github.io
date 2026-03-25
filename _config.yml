@@ -1,12 +1,12 @@
-site_name: Support extern
+title: Support extern
 # site_url: https://wiki.mycompany.com
-site_description: Häufig gestellte Fragen und Anleitungen für die Nutzung unserer Dienste.
+description: Häufig gestellte Fragen und Anleitungen für die Nutzung unserer Dienste.
 
 theme:
-  name: material
+  name: cayman
   palette:
-    primary: indigo
-    accent: indigo
+    primary: orange
+    accent: bordeaux
   features:
     - navigation.tabs
     - navigation.sections
@@ -16,7 +16,7 @@ theme:
 
 nav:
   - Home: index.md
-  - Office 356:
+  - Office 365:
     - Overview: office365/index.md
   - WebUntis:
     - Overview: webuntis/index.md
