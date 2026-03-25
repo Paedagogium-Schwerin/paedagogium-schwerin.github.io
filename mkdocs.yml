@@ -1,0 +1,30 @@
+site_name: Support extern
+# site_url: https://wiki.mycompany.com
+site_description: Häufig gestellte Fragen und Anleitungen für die Nutzung unserer Dienste.
+
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+    - toc.integrate
+
+nav:
+  - Home: index.md
+  - Office 356:
+    - Overview: office365/index.md
+  - WebUntis:
+    - Overview: webuntis/index.md
+    - Manual - User Roles: webuntis/students-login.md
+    - Manual - Security: webuntis/parents-login.md
+  - iPads:
+    - Overview: iPads/index.md
+    - Manual - API Setup: iPads/preparations.md
+
+plugins:
+  - search
