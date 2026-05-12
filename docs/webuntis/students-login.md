@@ -10,4 +10,4 @@ Die Authentifizierung erfolgt über den Office-Login der Schüler und Schülerin
 3. Im PopUp mit Office-Schülerzugang anmelden.
 4. Die Anmeldung in der Untis Mobile App wird empfohlen. Folgen Sie dafür [dieser Anleitung](app-login.md).
 
-Bei Problem kann der [Helpdesk](./index.md/#keine-anhwort-gefunden) weiterhelfen.
+Bei Problem kann der [Helpdesk](../index.md#keine-antwort-gefunden) weiterhelfen.

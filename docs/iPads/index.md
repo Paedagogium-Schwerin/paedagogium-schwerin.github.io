@@ -31,11 +31,11 @@ Microsoft Teams) oder [Android](https://play.google.com/store/apps/details?id=co
 
 
 ## Wie melde ich mich in den Apps an?
-Für die BiBox und Cornelsen Lernen haben die Schüler und Schülerinnen zu Beginn der 7. Klasse ihre Zugangsdaten erhalten. Sofern diese nicht mehr vorliegen, kann das Passwort zurückgesetzt werden. Bitte melden Sie sich dafür beim [Helpdesk](./index.md/#keine-anhwort-gefunden).
+Für die BiBox und Cornelsen Lernen haben die Schüler und Schülerinnen zu Beginn der 7. Klasse ihre Zugangsdaten erhalten. Sofern diese nicht mehr vorliegen, kann das Passwort zurückgesetzt werden. Bitte melden Sie sich dafür beim [Helpdesk](../index.md#keine-antwort-gefunden).
 
 Für Microsoft Teams verwenden Sie die gleichen Zugangsdaten, wie für den Mail-Account der Schule. Auch hier kann bei Problemen der Helpdesk weiterhelfen.
 
-Für die Anmeldung in Untis gibt es eine separate [Anleitung](./webuntis/students-login.md).
+Für die Anmeldung in Untis gibt es eine separate [Anleitung](../webuntis/students-login.md).
 
 
 ## Welche Möglichkeiten gibt es zur Verwaltung von den Geräten?
@@ -53,7 +53,7 @@ Nähere Informationen finden Sie hier:
 - [Google Kinderaccount](https://support.google.com/families/answer/7158477?hl=de)
 - [Google Gerät für ein Kind einrichten](https://support.google.com/families/answer/7158477?hl=de)
 
-In begrenztem Rahmen kann bei Fragen auch der [Helpdesk](./index.md/#keine-anhwort-gefunden) weiterhelfen.
+In begrenztem Rahmen kann bei Fragen auch der [Helpdesk](../index.md#keine-antwort-gefunden) weiterhelfen.
 
 
 ## Was sollte in der Schulzeit nicht erlaubt sein?
