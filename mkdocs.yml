@@ -40,4 +40,5 @@ nav:
       - Eltern Login: webuntis/parents-login.md
       - App Login: webuntis/app-login.md
   - iPads:
-      - Informationen: iPads/index.md
+      - Einrichtung: iPads/setup.md
+      - Problemlösung: iPads/help.md

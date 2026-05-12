@@ -20,4 +20,4 @@ Informationen zu unseren iPad-Klassen, einschließlich notwendiger Apps, Einrich
 
 ## Keine Antwort gefunden?
 
-Can't find what you're looking for? [Contact our support team](mailto:support@mycompany.com) or open a ticket in the dashboard.
+Wenn ihr Problem auf diesen Seiten nicht gelöst werden konnte, können Sie sich gerne mit Ihrem Anliegen an unseren [Helpdesk](mailto:helpdesk@paedagogium-schwerin.de) wenden. Bitte geben Sie dabei so viele Informationen wie möglich an, damit wir Ihnen schnell und effektiv weiterhelfen können. Vielen Dank!
