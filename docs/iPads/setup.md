@@ -43,6 +43,7 @@ Für die Anmeldung in Untis gibt es eine separate [Anleitung](../webuntis/studen
 Beide Betriebssysteme beiten Möglichkeiten für Eltern, die Geräte ihrer Kinder zu verwalten. Dadurch können Appinstallationen und Nutzungszeiträume gesteuert werden. Bitte bedenken Sie auch, dass sie für ein Kind **keinen** vollwertigen Apple- oder Google-Account anlegen dürfen. Beide Betriebssysteme bieten Möglichkeiten, einen Kinderaccount zu erstellen.
 
 Nähere Informationen finden Sie hier: 
+
 **Apple**
 
 - [Apple Übersicht](https://support.apple.com/de-de/guide/ipad/ipad9950a506/ipados)
