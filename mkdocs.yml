@@ -38,5 +38,6 @@ nav:
       - Anleitungen: webuntis/manuals.md
       - Schüler Login: webuntis/students-login.md
       - Eltern Login: webuntis/parents-login.md
+      - App Login: webuntis/app-login.md
   - iPads:
       - Informationen: iPads/index.md
