@@ -15,4 +15,4 @@ Sofern die E-Mail-Adresse im System gefunden wird, kann ein Account angelegt wer
 
 
 Seitens der Schule können keine Eltern-Accounts angelegt werden, die Erstellung funktioniert ausschließlich über die Selbstregistrierung.
-Bei Problemen oder Fragen bitte mit der privaten Mail-Adresse und dem Namen der Kinder an den [Helpdesk](index.md/#keine-anhwort-gefunden) wenden.
+Bei Problemen oder Fragen bitte mit der privaten Mail-Adresse und dem Namen der Kinder an den [Helpdesk](./index.md/#keine-anhwort-gefunden) wenden.
