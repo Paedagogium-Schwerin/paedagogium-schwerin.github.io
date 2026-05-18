@@ -21,3 +21,5 @@ Informationen zu unseren iPad-Klassen, einschließlich notwendiger Apps, Einrich
 ## Keine Antwort gefunden?
 
 Wenn ihr Problem auf diesen Seiten nicht gelöst werden konnte, können Sie sich gerne mit Ihrem Anliegen an unseren [Helpdesk](mailto:helpdesk@paedagogium-schwerin.de) wenden. Bitte geben Sie dabei so viele Informationen wie möglich an, damit wir Ihnen schnell und effektiv weiterhelfen können. Vielen Dank!
+
+Gerne nehmen wir auch Verbesserungsvorschläge und Anregungen für diese Seite entgegen. Wenn Sie Ideen haben, wie wir die Informationen besser strukturieren oder erweitern können, zögern Sie nicht, uns zu kontaktieren.
