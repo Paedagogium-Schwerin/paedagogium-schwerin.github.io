@@ -1,6 +1,7 @@
 # iPad Einrichtung und Verwaltung
 
 Auf dieser Seite finden Sie Informationen und Tipps zur Einrichtung und Verwaltung von iPads, die in den iPad-Klassen am Pädagogium verwendet werden.
+Die Anleitungen auf dieser Seite beziehen sich teilweise auf Geräte auf Werkseinstellungen. Falls Sie ein Gerät zurücksetzen wollen, können Sie dieser Frage nachgehen: [Was mache ich, wenn das Gerät nicht mehr funktioniert?](help.md#was-mache-ich-wenn-das-geraet-nicht-mehr-funktioniert).
 
 ## Welche Anforderungen muss das Gerät erfüllen?
 Jedes aktuelle Tablet sollte den Anforderungen gerecht werden. Die Geräte werden hauptsächlich zum Aufrufen von Lehrbüchern, für Internetrecherche und für die Kommunikation über Teams verwendet. Sie können zusätzlich auch zum Anfertigen von Notizen eingesetzt werden; dann kann ein Tablet‑Stift oder eine Tastatur sinnvoll sein.
