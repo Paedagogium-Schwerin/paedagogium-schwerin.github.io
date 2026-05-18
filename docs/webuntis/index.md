@@ -3,7 +3,7 @@
 
 ### **Was ist WebUntis?**
 
-WebUntis ist für Schüler, Schülerinnen und Eltern die zentrale Informationsquelle für Stunden- und Vertretungsplan, sowie aktuelle Informationen zum Schulbetrieb.
+WebUntis ist für Schülerinnen, Schüler und Eltern die zentrale Informationsquelle für Stunden‑ und Vertretungspläne sowie aktuelle Informationen zum Schulbetrieb.
 
 ### **Wo finde ich WebUntis?**
 
@@ -11,7 +11,7 @@ Die URL für WebUntis lautet: [https://paedagogium-schwerin.webuntis.com](https
 
 ### **Wie melden sich Schüler und Schülerinnen in WebUntis an?**
 
-Schüler und Schülerinnen können sich in WebUntis einfach mit ihren Office-Zugangsdaten anmelden. Dafür muss auf der Startseite der Button “Office 365 Anmeldung” verwendet werden. Anschließend öffnet sich ein Pop-Up zur Anmeldung bei Office 365.
+Schüler und Schülerinnen können sich in WebUntis einfach mit ihren Office‑Zugangsdaten anmelden. Dafür muss auf der Startseite der Button „Office 365 Anmeldung“ verwendet werden. Anschließend öffnet sich ein Pop‑up zur Anmeldung bei Office 365.
 
 ### **Wie melden sich Eltern in WebUntis an?**
 
@@ -19,7 +19,7 @@ Eltern können sich über die Selbstregistrierung einen Erziehungsberechtigten-A
 
 ### **Wird WebUntis in Zukunft noch für weitere Aufgabenbereiche verwendet?**
 
-Ja. Durch unsere Bemühungen weitere Prozesse im Schulalltag zu digitalisieren, erweitern wir den Umfang unserer Systeme stetig.
+Ja. Durch unsere Bemühungen, weitere Prozesse im Schulalltag zu digitalisieren, erweitern wir den Umfang unserer Systeme stetig.
 
 ## Units Mobile
 

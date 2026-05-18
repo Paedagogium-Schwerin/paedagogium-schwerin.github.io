@@ -7,7 +7,7 @@ Office 365 ist eine Software-Suite von Microsoft, die wir allen Schülern und Sc
 
 ### Wie erhalte ich meine Zugangsdaten?
 
-Ihre Zugangsdaten erhalten Sie spätestens zu Beginn den Schuljahres über das Sekretariat. Bei Bedarf kann das Kennwort zurückgesetzt werden. Melden Sie sich dazu beim Helpdesk. Weitere Kontaktmöglichkeiten finden Sie auf der Startseite.
+Ihre Zugangsdaten erhalten Sie spätestens zu Beginn des Schuljahres über das Sekretariat. Bei Bedarf kann das Kennwort zurückgesetzt werden. Melden Sie sich dazu beim Helpdesk. Weitere Kontaktmöglichkeiten finden Sie auf der Startseite.
 
 ### Kann ich Apps wie Word, Excel oder PowerPoint auf meinem Computer installieren?
 
