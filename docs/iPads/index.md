@@ -7,3 +7,6 @@ Informationen und Links zur Einrichtung der iPads, die in den iPad‑Klassen am 
 
 ### [Problemlösung](help.md)
 Hilfestellungen zu häufigen Problemen, die bei der Nutzung von iPads im Unterricht auftreten können. 
+
+### [Verlassen der ACS-Verwaltung](leave.md)
+Anleitung zum Verlassen der ACS‑Verwaltung, falls Sie das Gerät selbst verwalten möchten. Diese Anleitung richtet sich an Eltern der Klasse 7 im SJ 2025/26.

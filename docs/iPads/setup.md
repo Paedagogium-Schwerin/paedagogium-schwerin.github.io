@@ -19,7 +19,7 @@ Sollten Sie sich für ein anderes Gerät entscheiden, achten Sie bitte darauf, d
 
 
 ## Welche Apps sollten auf den Geräten installiert werden?
-Für den Schulalltag werden die folgenden Apps auf den Geräten benötigt:
+Für den Schulalltag werden die folgenden Apps auf den Geräten benötigt. Bitte installieren Sie diese Apps vor Beginn des Schuljahres auf den Geräten.
 
 - Westermann BiBox für [iPadOS](https://apps.apple.com/de/app/bibox/id1478408158
 BiBox) oder [Android](https://play.google.com/store/apps/details?id=de.wgr.bibox2&gl=DE&pli=1)
@@ -41,7 +41,7 @@ Für die Anmeldung in Untis gibt es eine separate [Anleitung](../webuntis/studen
 
 
 ## Welche Möglichkeiten gibt es zur Verwaltung der Geräte?
-Beide Betriebssysteme bieten Möglichkeiten für Eltern, die Geräte ihrer Kinder zu verwalten. Dadurch können App‑Installationen und Nutzungszeiträume gesteuert werden. Bitte bedenken Sie auch, dass Sie für ein Kind **keinen** vollwertigen Apple‑ oder Google‑Account anlegen dürfen. Beide Betriebssysteme bieten Möglichkeiten, einen Kinderaccount zu erstellen.
+Beide Betriebssysteme bieten Möglichkeiten für Eltern, die Geräte ihrer Kinder zu verwalten. Dadurch können Sie App‑Installationen und Nutzungszeiträume steuern. Bitte bedenken Sie auch, dass Sie für ein Kind **keinen** vollwertigen Apple‑ oder Google‑Account anlegen sollten. Beide Betriebssysteme bieten Möglichkeiten, einen Kinderaccount zu erstellen.
 
 Nähere Informationen finden Sie hier: 
 

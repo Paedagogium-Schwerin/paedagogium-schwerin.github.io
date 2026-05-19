@@ -29,7 +29,7 @@ Untis Mobile bietet die Möglichkeit, die Informationen aus WebUntis in einer Ap
 
 ### **Wie funktioniert die Anmeldung in der Untis Mobile App?**
 Die Anmeldung in der Untis Mobile App erfolgt mit den gleichen Zugangsdaten, wie für die Weboberfläche. 
-Es ist notwendig, sich zunächst über die Weboberfläche anzumelden, damit die Accounts korrekt angelegt werden. 
+Es ist notwendig, dass Sie sich sich zunächst über die Weboberfläche anmelden, damit die Accounts korrekt angelegt werden. 
 Anschließend kann die Anmeldung in der App erfolgen. Eine detaillierte Anleitung für die Anmeldung in der App finden Sie [hier](app-login.md).
 
 ---
