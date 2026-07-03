@@ -10,12 +10,35 @@ Wir empfehlen Apple iPads. Keine Serie fällt aufgrund ihrer Leistungsmerkmale a
 
 Die aktuellen Apple iPads sind:
 
-- iPad A16 ~380€
-- iPad Air M4 ~650€
-- iPad Pro M5 ~1100€
+- iPad A16
+- iPad Air M4
+- iPad Pro M5
 
 
 Sollten Sie sich für ein anderes Gerät entscheiden, achten Sie bitte darauf, dass es mindestens 128GB Speicher hat.
+
+
+## Welche Möglichkeiten gibt es zur Verwaltung der Geräte?
+Beide Betriebssysteme bieten Möglichkeiten für Eltern, die Geräte ihrer Kinder zu verwalten. Dadurch können Sie App‑Installationen und Nutzungszeiträume steuern. Bitte bedenken Sie auch, dass Sie für ein Kind **keinen** vollwertigen Apple‑ oder Google‑Account anlegen sollten. Beide Betriebssysteme bieten deshalb Möglichkeiten, einen Kinderaccount zu erstellen. Es empfielt sich sehr, diese Möglichkeiten zu nutzen.
+
+Nähere Informationen finden Sie hier: 
+
+**Apple**
+
+- [Apple Übersicht](https://support.apple.com/de-de/guide/ipad/ipad9950a506/ipados)
+- [Apple Kinderaccount](https://support.apple.com/de-de/102617)
+- [Apple Gerät für ein Kind einrichten](https://support.apple.com/de-de/guide/iphone/iphfd0b65920/ios)
+- [Apple lokale Einschränkungen](https://support.apple.com/de-de/guide/ipad/ipadb15cb886/26/ipados/26) *diese funktionieren auch, wenn im Haushalt keine Eltern-AppleIDs existieren*.
+
+Hinweis: Apple hat angekündigt, die Möglichkeiten zur Verwaltung von Kinderaccounts mit iOS 27 zu erweitern. Das neue Betriebssystem wird voraussichtlich im Herbst 2026 veröffentlicht. Daher können die hier genannten Links in Zukunft nicht mehr aktuell sein. Wir werden die Informationen auf dieser Seite dann entsprechend anpassen.
+
+**Google**
+
+- [Google Übersicht](https://families.google/intl/de_ALL/familylink/)
+- [Google Kinderaccount](https://support.google.com/families/answer/7158477?hl=de)
+- [Google Gerät für ein Kind einrichten](https://support.google.com/families/answer/7158477?hl=de)
+
+In begrenztem Rahmen kann bei Fragen auch der [Helpdesk](../index.md#keine-antwort-gefunden) weiterhelfen.
 
 
 ## Welche Apps sollten auf den Geräten installiert werden?
@@ -32,6 +55,7 @@ Microsoft Teams) oder [Android](https://play.google.com/store/apps/details?id=co
 
 Weitere Informationen zu den Office‑Apps finden Sie in den [FAQs zu Office 365](../office365/index.md).
 
+
 ## Wie melde ich mich in den Apps an?
 Für die BiBox und Cornelsen Lernen haben die Schüler und Schülerinnen zu Beginn der 7. Klasse ihre Zugangsdaten erhalten. Sofern diese nicht mehr vorliegen, kann das Passwort zurückgesetzt werden. Bitte melden Sie sich dafür beim [Helpdesk](../index.md#keine-antwort-gefunden).
 
@@ -40,39 +64,20 @@ Für Microsoft Teams verwenden Sie die gleichen Zugangsdaten wie für den Mail�
 Für die Anmeldung in Untis gibt es eine separate [Anleitung](../webuntis/students-login.md).
 
 
-## Welche Möglichkeiten gibt es zur Verwaltung der Geräte?
-Beide Betriebssysteme bieten Möglichkeiten für Eltern, die Geräte ihrer Kinder zu verwalten. Dadurch können Sie App‑Installationen und Nutzungszeiträume steuern. Bitte bedenken Sie auch, dass Sie für ein Kind **keinen** vollwertigen Apple‑ oder Google‑Account anlegen sollten. Beide Betriebssysteme bieten Möglichkeiten, einen Kinderaccount zu erstellen.
-
-Nähere Informationen finden Sie hier: 
-
-**Apple**
-
-- [Apple Übersicht](https://support.apple.com/de-de/guide/ipad/ipad9950a506/ipados)
-- [Apple Kinderaccount](https://support.apple.com/de-de/102617)
-- [Apple Gerät für ein Kind einrichten](https://support.apple.com/de-de/guide/iphone/iphfd0b65920/ios)
-- [Apple lokale Einschränkungen](https://support.apple.com/de-de/guide/ipad/ipadb15cb886/26/ipados/26) *diese funktionieren auch, wenn im Haushalt keine Eltern-AppleIDs existieren*.
-
-**Google**
-
-- [Google Übersicht](https://families.google/intl/de_ALL/familylink/)
-- [Google Kinderaccount](https://support.google.com/families/answer/7158477?hl=de)
-- [Google Gerät für ein Kind einrichten](https://support.google.com/families/answer/7158477?hl=de)
-
-In begrenztem Rahmen kann bei Fragen auch der [Helpdesk](../index.md#keine-antwort-gefunden) weiterhelfen.
-
-
 ## Was sollte in der Schulzeit nicht erlaubt sein?
 Neben der Einhaltung des Jugendschutzes sollte während der Schulzeit folgendes auf den Geräten nicht möglich sein. 
 
 - Nicht-pädagogische Spiele
 - Streaming‑Dienste wie Netflix, Disney+ usw.
+- Soziale Netzwerke wie Instagram, TikTok, Snapchat usw.
 
 Wie Sie diese Punkte einschränken, liegt im Ermessen der Eltern. Bei mehrfachen Verstößen behält sich die Schule vor, die Tablet‑Nutzung einzelner Schüler und Schülerinnen einzuschränken.
+Im Schülernetz ist außerdem die Nutzung verschiedener Streaming-Dienste, sozialer Netzwerke und problematischer Inhalte durch die Schule gesperrt.
 
 
 ## Wie kann ich die Datensicherheit gewährleisten?
 Die Sicherheit der Daten auf den Geräten kann durch die folgenden Maßnahmen gewährleistet werden:
 
 - Regelmäßige Updates der Betriebssysteme und Apps durchführen.
-- Starke Passwörter verwenden und diese regelmäßig ändern.
+- Starke Passwörter verwenden und diese regelmäßig ändern. Die Verwendung eines Passwortmanagers wird empfohlen.
 - Wichtige Nutzerdaten in einer Cloud (z.B. iCloud, OneDrive) sichern, damit sie bei einem Defekt des Geräts nicht verloren gehen.
