@@ -11,11 +11,11 @@ Die URL für WebUntis lautet: [https://paedagogium-schwerin.webuntis.com](https
 
 ### **Wie melden sich Schüler und Schülerinnen in WebUntis an?**
 
-Schüler und Schülerinnen können sich in WebUntis einfach mit ihren Office‑Zugangsdaten anmelden. Dafür muss auf der Startseite der Button „Office 365 Anmeldung“ verwendet werden. Anschließend öffnet sich ein Pop‑up zur Anmeldung bei Office 365.
+Schüler und Schülerinnen können sich in WebUntis einfach mit ihren Office‑Zugangsdaten anmelden. Dafür muss auf der Startseite der Button „Office 365 Anmeldung“ verwendet werden. Anschließend öffnet sich ein Pop‑up zur Anmeldung bei Office 365. Eine Anleitung für die Anmeldung in WebUntis finden Sie [hier](students-login.md).
 
 ### **Wie melden sich Eltern in WebUntis an?**
 
-Eltern können sich über die Selbstregistrierung einen Erziehungsberechtigten-Account anlegen. Im System sind dazu die E-Mail-Adressen hinterlegt, die beim Vertragsschluss angegeben wurden. Sofern die Mail-Adresse im System hinterlegt ist, kann anschließend ein Kennwort vergeben werden. Die entsprechenden Schüleraccounts der Kinder werden automatisch zugeordnet.
+Eltern können sich über die Selbstregistrierung einen Erziehungsberechtigten-Account anlegen. Im System sind dazu die E-Mail-Adressen hinterlegt, die beim Vertragsschluss angegeben wurden. Sofern die Mail-Adresse im System hinterlegt ist, kann anschließend ein Kennwort vergeben werden. Die entsprechenden Schüleraccounts der Kinder werden automatisch zugeordnet. Eine Anleitung für die Anmeldung in WebUntis finden Sie [hier](parents-login.md).
 
 ### **Wird WebUntis in Zukunft noch für weitere Aufgabenbereiche verwendet?**
 
