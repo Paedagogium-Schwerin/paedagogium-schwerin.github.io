@@ -12,6 +12,12 @@
   - [Units Mobile](#units-mobile)
     - [**Was ist Untis Mobile?**](#was-ist-untis-mobile)
     - [**Wie funktioniert die Anmeldung in der Untis Mobile App?**](#wie-funktioniert-die-anmeldung-in-der-untis-mobile-app)
+  - [Digitales Klassenbuch](#digitales-klassenbuch)
+    - [**Was ist das digitale Klassenbuch?**](#was-ist-das-digitale-klassenbuch)
+    - [**Welche Vorteile bietet das digitale Klassenbuch für Schülern und Eltern?**](#welche-vorteile-bietet-das-digitale-klassenbuch-für-schülern-und-eltern)
+    - [**Wie können Schüler und Eltern auf das digitale Klassenbuch zugreifen?**](#wie-können-schüler-und-eltern-auf-das-digitale-klassenbuch-zugreifen)
+    - [**Was sind Klassenbucheinträge?**](#was-sind-klassenbucheinträge)
+    - [**Warum sehe ich nicht alle Einträge oder Abwesenheiten im digitalen Klassenbuch?**](#warum-sehe-ich-nicht-alle-einträge-oder-abwesenheiten-im-digitalen-klassenbuch)
   - [📖 Anleitungen](#-anleitungen)
 
 ## Allgemeines & Anmeldung
@@ -46,6 +52,26 @@ Untis Mobile bietet die Möglichkeit, die Informationen aus WebUntis in einer Ap
 Die Anmeldung in der Untis Mobile App erfolgt mit den gleichen Zugangsdaten, wie für die Weboberfläche. 
 Es ist notwendig, dass Sie sich sich zunächst über die Weboberfläche anmelden, damit die Accounts korrekt angelegt werden. 
 Anschließend kann die Anmeldung in der App erfolgen. Eine detaillierte Anleitung für die Anmeldung in der App finden Sie [hier](app-login.md).
+
+## Digitales Klassenbuch
+
+### **Was ist das digitale Klassenbuch?**
+Das digitale Klassenbuch ist ein Bestandteil von WebUntis, der es Lehrkräften ermöglicht, Unterrichtsinhalte, Hausaufgaben und Anwesenheiten digital zu erfassen. Es wird zum Schuljahr 2026/2027 in allen Klassenstufen eingeführt.
+
+### **Welche Vorteile bietet das digitale Klassenbuch für Schülern und Eltern?**
+In der digitalen Version des Klassenbuchs können Schüler und Eltern jederzeit auf die Hausaufgaben, Noten, Anwesenheiten und Klassenbucheinträge zugreifen. Dies ermöglicht eine bessere Nachverfolgung des Lernfortschritts und erleichtert die Kommunikation zwischen Lehrkräften, Schülern und Eltern.
+
+### **Wie können Schüler und Eltern auf das digitale Klassenbuch zugreifen?**
+Schüler und Eltern können auf das digitale Klassenbuch über die WebUntis-Plattform oder die Untis Mobile App zugreifen. Nach der Anmeldung stehen die entsprechenden Funktionen im Menü unter "Klassenbuch" zur Verfügung.
+
+### **Was sind Klassenbucheinträge?**
+Klassenbucheinträge sind Einträge abseits der Lerninhalte, die Lehrkräft im digitalen Klassenbuch vermerken können. Dazu gehören Belehrungen, Unfallsmeldungen oder besondere Vorkommnisse im Unterricht. Ein Eintrag kann entweder die ganze Klasse oder nur einzelne Schüler und Schülerinnen betreffen. Die Einträge sind für die betroffenen Schüler und Schülerinnen sowie deren Eltern einsehbar.
+
+Bitte beachten Sie, dass nicht alle Einträge sichtbar sind.
+
+### **Warum sehe ich nicht alle Einträge oder Abwesenheiten im digitalen Klassenbuch?**
+Die Sichtbarkeit von Einträgen und Abwesenheiten im digitalen Klassenbuch hängt von den Einstellungen in der jeweiligen Ansicht ab. Häufig sind Einträge nach bestimmten Zeiträumen oder Kategorien gefiltert. Stellen Sie sicher, dass Sie die richtigen Filteroptionen ausgewählt haben, um alle relevanten Informationen anzuzeigen. 
+Unter [Überblick über die Benutzeroberfläche](overview.md) finden Sie Hinweise zur Navigation und den Filteroptionen im digitalen Klassenbuch.
 
 ---
 
