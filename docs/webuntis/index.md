@@ -18,6 +18,7 @@
     - [**Wie können Schüler und Eltern auf das digitale Klassenbuch zugreifen?**](#wie-können-schüler-und-eltern-auf-das-digitale-klassenbuch-zugreifen)
     - [**Was sind Klassenbucheinträge?**](#was-sind-klassenbucheinträge)
     - [**Warum sehe ich nicht alle Einträge oder Abwesenheiten im digitalen Klassenbuch?**](#warum-sehe-ich-nicht-alle-einträge-oder-abwesenheiten-im-digitalen-klassenbuch)
+    - [**Was kann ich tun, wenn eine Abwesenheit fälschlicherweise auf Unentschuldigt gesetzt wurde?**](#was-kann-ich-tun-wenn-eine-abwesenheit-fälschlicherweise-auf-unentschuldigt-gesetzt-wurde)
   - [📖 Anleitungen](#-anleitungen)
 
 ## Allgemeines & Anmeldung
@@ -72,6 +73,9 @@ Bitte beachten Sie, dass nicht alle Einträge sichtbar sind.
 ### **Warum sehe ich nicht alle Einträge oder Abwesenheiten im digitalen Klassenbuch?**
 Die Sichtbarkeit von Einträgen und Abwesenheiten im digitalen Klassenbuch hängt von den Einstellungen in der jeweiligen Ansicht ab. **Häufig sind Einträge nach bestimmten Zeiträumen oder Kategorien gefiltert.** Stellen Sie sicher, dass Sie die richtigen Filteroptionen ausgewählt haben, um alle relevanten Informationen anzuzeigen. 
 Unter [Überblick über die Benutzeroberfläche](overview.md) finden Sie Hinweise zur Navigation im digitalen Klassenbuch.
+
+### **Was kann ich tun, wenn eine Abwesenheit fälschlicherweise auf Unentschuldigt gesetzt wurde?**
+Wenn eine Abwesenheit fälschlicherweise auf "Unentschuldigt" gesetzt wurde, müssen Sie sich bei der zuständigen Klassenlehrkraft melden. Diese kann die Abwesenheit überprüfen und gegebenenfalls korrigieren.
 
 ---
 
