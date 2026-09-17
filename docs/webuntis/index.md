@@ -12,12 +12,6 @@
   - [Units Mobile](#units-mobile)
     - [**Was ist Untis Mobile?**](#was-ist-untis-mobile)
     - [**Wie funktioniert die Anmeldung in der Untis Mobile App?**](#wie-funktioniert-die-anmeldung-in-der-untis-mobile-app)
-  - [Digitales Klassenbuch](#digitales-klassenbuch)
-    - [**Was ist das digitale Klassenbuch?**](#was-ist-das-digitale-klassenbuch)
-    - [**Welche Vorteile bietet das digitale Klassenbuch für Schülern und Eltern?**](#welche-vorteile-bietet-das-digitale-klassenbuch-für-schülern-und-eltern)
-    - [**Wie können Schüler und Eltern auf das digitale Klassenbuch zugreifen?**](#wie-können-schüler-und-eltern-auf-das-digitale-klassenbuch-zugreifen)
-    - [**Was sind Klassenbucheinträge?**](#was-sind-klassenbucheinträge)
-    - [**Warum sehe ich nicht alle Einträge oder Abwesenheiten im digitalen Klassenbuch?**](#warum-sehe-ich-nicht-alle-einträge-oder-abwesenheiten-im-digitalen-klassenbuch)
   - [📖 Anleitungen](#-anleitungen)
 
 ## Allgemeines & Anmeldung
@@ -36,7 +30,7 @@ Schüler und Schülerinnen können sich in WebUntis einfach mit ihren Office‑Z
 
 ### **Wie melden sich Eltern in WebUntis an?**
 
-Eltern können sich über die Selbstregistrierung einen Erziehungsberechtigten-Account anlegen. Im System sind dazu die E-Mail-Adressen hinterlegt, die beim Vertragsschluss angegeben wurden. Sofern die Mail-Adresse im System hinterlegt ist, kann anschließend ein Kennwort vergeben werden. Die entsprechenden Schüleraccounts der Kinder werden automatisch zugeordnet. Eine Anleitung für die Anmeldung in WebUntis finden Sie [hier](parents-login.md).
+Eltern können sich über die Selbstregistrierung einen Erziehungsberechtigten-Account anlegen. Im System sind dazu die E-Mail-Adressen hinterlegt, die beim Vertragsschluss angegeben wurden. Sofern die Mail-Adresse im System hinterlegt ist, kann anschließend ein Kennwort vergeben werden. Die entsprechenden Schüleraccounts der Kinder werden automatisch zugeordnet. Eine Anleitung für die Registrierung in WebUntis finden Sie [hier](parents-regis.md).
 
 ### **Wird WebUntis in Zukunft noch für weitere Aufgabenbereiche verwendet?**
 
