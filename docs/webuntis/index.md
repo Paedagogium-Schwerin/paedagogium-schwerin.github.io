@@ -30,7 +30,7 @@ Schüler und Schülerinnen können sich in WebUntis einfach mit ihren Office‑Z
 
 ### **Wie melden sich Eltern in WebUntis an?**
 
-Eltern können sich über die Selbstregistrierung einen Erziehungsberechtigten-Account anlegen. Im System sind dazu die E-Mail-Adressen hinterlegt, die beim Vertragsschluss angegeben wurden. Sofern die Mail-Adresse im System hinterlegt ist, kann anschließend ein Kennwort vergeben werden. Die entsprechenden Schüleraccounts der Kinder werden automatisch zugeordnet. Eine Anleitung für die Anmeldung in WebUntis finden Sie [hier](parents-login.md).
+Eltern können sich über die Selbstregistrierung einen Erziehungsberechtigten-Account anlegen. Im System sind dazu die E-Mail-Adressen hinterlegt, die beim Vertragsschluss angegeben wurden. Sofern die Mail-Adresse im System hinterlegt ist, kann anschließend ein Kennwort vergeben werden. Die entsprechenden Schüleraccounts der Kinder werden automatisch zugeordnet. Eine Anleitung für die Registrierung in WebUntis finden Sie [hier](parents-regis.md).
 
 ### **Wird WebUntis in Zukunft noch für weitere Aufgabenbereiche verwendet?**
 

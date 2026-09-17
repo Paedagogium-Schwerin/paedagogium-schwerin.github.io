@@ -6,5 +6,6 @@ Die wichtigsten Anleitungen sind auch in der Seitenleiste zu finden.
 | Anleitung | Beschreibung |
 |--------|-------------|
 | [Schüler Login](students-login.md) | Anleitung für die Anmeldung von Schülern in WebUntis |
+| [Eltern Registrierung](parents-regis.md) | Anleitung für die Registrierung von Eltern in WebUntis |
 | [Eltern Login](parents-login.md) | Anleitung für die Anmeldung von Eltern in WebUntis |
 | [Untis Mobile App Login](app-login.md) | Anleitung für die Anmeldung in der Untis Mobile App |
