@@ -16,6 +16,9 @@ Dieser Punkt wird stetig erweitert, sofern neue Funktionen zu WebUntis hinzukomm
 ### 📱 [iPads](iPads/index.md)
 Informationen zu unseren iPad-Klassen, einschließlich notwendiger Apps, Einrichtung und Nutzungshinweisen.
 
+### 📚 [Digitale Lernmittel](digilern/index.md)
+Informationen zu den digitalen Lernmitteln, die am Pädagogium verwendet werden.
+
 ---
 
 ## Häufig gesuchte Themen

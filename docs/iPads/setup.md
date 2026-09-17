@@ -3,7 +3,7 @@
 Auf dieser Seite finden Sie Informationen und Tipps zur Einrichtung und Verwaltung von iPads, die in den iPad-Klassen am Pädagogium verwendet werden.
 Die Anleitungen auf dieser Seite beziehen sich teilweise auf Geräte auf Werkseinstellungen. Falls Sie ein Gerät zurücksetzen wollen, können Sie dieser Frage nachgehen: [Was mache ich, wenn das Gerät nicht mehr funktioniert?](help.md#was-mache-ich-wenn-das-geraet-nicht-mehr-funktioniert).
 
-## Welche Anforderungen muss das Gerät erfüllen?
+## **Welche Anforderungen muss das Gerät erfüllen?**
 Jedes aktuelle Tablet sollte den Anforderungen gerecht werden. Die Geräte werden hauptsächlich zum Aufrufen von Lehrbüchern, für Internetrecherche und für die Kommunikation über Teams verwendet. Sie können zusätzlich auch zum Anfertigen von Notizen eingesetzt werden; dann kann ein Tablet‑Stift oder eine Tastatur sinnvoll sein.
 
 Wir empfehlen Apple iPads. Keine Serie fällt aufgrund ihrer Leistungsmerkmale aus.
@@ -18,7 +18,7 @@ Die aktuellen Apple iPads sind:
 Sollten Sie sich für ein anderes Gerät entscheiden, achten Sie bitte darauf, dass es mindestens 128GB Speicher hat.
 
 
-## Welche Möglichkeiten gibt es zur Verwaltung der Geräte?
+## **Welche Möglichkeiten gibt es zur Verwaltung der Geräte?**
 Beide Betriebssysteme bieten Möglichkeiten für Eltern, die Geräte ihrer Kinder zu verwalten. Dadurch können Sie App‑Installationen und Nutzungszeiträume steuern. Bitte bedenken Sie auch, dass Sie für ein Kind **keinen** vollwertigen Apple‑ oder Google‑Account anlegen sollten. Beide Betriebssysteme bieten deshalb Möglichkeiten, einen Kinderaccount zu erstellen. Es empfielt sich sehr, diese Möglichkeiten zu nutzen.
 
 Nähere Informationen finden Sie hier: 
@@ -41,7 +41,8 @@ Hinweis: Apple hat angekündigt, die Möglichkeiten zur Verwaltung von Kinderacc
 In begrenztem Rahmen kann bei Fragen auch der [Helpdesk](../index.md#keine-antwort-gefunden) weiterhelfen.
 
 
-## Welche Apps sollten auf den Geräten installiert werden?
+
+## **Welche Apps sollten auf den Geräten installiert werden?**
 Für den Schulalltag werden die folgenden Apps auf den Geräten benötigt. Bitte installieren Sie diese Apps vor Beginn des Schuljahres auf den Geräten.
 
 - Westermann BiBox für [iPadOS](https://apps.apple.com/de/app/bibox/id1478408158
@@ -56,7 +57,8 @@ Microsoft Teams) oder [Android](https://play.google.com/store/apps/details?id=co
 Weitere Informationen zu den Office‑Apps finden Sie in den [FAQs zu Office 365](../office365/index.md).
 
 
-## Wie melde ich mich in den Apps an?
+
+## **Wie melde ich mich in den Apps an?**
 Für die BiBox und Cornelsen Lernen haben die Schüler und Schülerinnen zu Beginn der 7. Klasse ihre Zugangsdaten erhalten. Sofern diese nicht mehr vorliegen, kann das Passwort zurückgesetzt werden. Bitte melden Sie sich dafür beim [Helpdesk](../index.md#keine-antwort-gefunden).
 
 Für Microsoft Teams verwenden Sie die gleichen Zugangsdaten wie für den Mail‑Account der Schule. Auch hier kann bei Problemen der Helpdesk weiterhelfen.
@@ -64,7 +66,8 @@ Für Microsoft Teams verwenden Sie die gleichen Zugangsdaten wie für den Mail�
 Für die Anmeldung in Untis gibt es eine separate [Anleitung](../webuntis/students-login.md).
 
 
-## Was sollte in der Schulzeit nicht erlaubt sein?
+
+## **Was sollte in der Schulzeit nicht erlaubt sein?**
 Neben der Einhaltung des Jugendschutzes sollte während der Schulzeit folgendes auf den Geräten nicht möglich sein. 
 
 - Nicht-pädagogische Spiele
@@ -74,8 +77,10 @@ Neben der Einhaltung des Jugendschutzes sollte während der Schulzeit folgendes 
 Wie Sie diese Punkte einschränken, liegt im Ermessen der Eltern. Bei mehrfachen Verstößen behält sich die Schule vor, die Tablet‑Nutzung einzelner Schüler und Schülerinnen einzuschränken.
 Im Schülernetz ist außerdem die Nutzung verschiedener Streaming-Dienste, sozialer Netzwerke und problematischer Inhalte durch die Schule gesperrt.
 
+## **Was brauche ich, um Zugang zum WLAN zu erhalten?**
+Die Zugangsdaten zum WLAN-Netzwerk können im Sekretariat erfragt werden.
 
-## Wie kann ich die Datensicherheit gewährleisten?
+## **Wie kann ich die Datensicherheit gewährleisten?**
 Die Sicherheit der Daten auf den Geräten kann durch die folgenden Maßnahmen gewährleistet werden:
 
 - Regelmäßige Updates der Betriebssysteme und Apps durchführen.
