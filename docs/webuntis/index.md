@@ -12,6 +12,12 @@
   - [Units Mobile](#units-mobile)
     - [**Was ist Untis Mobile?**](#was-ist-untis-mobile)
     - [**Wie funktioniert die Anmeldung in der Untis Mobile App?**](#wie-funktioniert-die-anmeldung-in-der-untis-mobile-app)
+  - [Digitales Klassenbuch](#digitales-klassenbuch)
+    - [**Was ist das digitale Klassenbuch?**](#was-ist-das-digitale-klassenbuch)
+    - [**Welche Vorteile bietet das digitale Klassenbuch für Schülern und Eltern?**](#welche-vorteile-bietet-das-digitale-klassenbuch-für-schülern-und-eltern)
+    - [**Wie können Schüler und Eltern auf das digitale Klassenbuch zugreifen?**](#wie-können-schüler-und-eltern-auf-das-digitale-klassenbuch-zugreifen)
+    - [**Was sind Klassenbucheinträge?**](#was-sind-klassenbucheinträge)
+    - [**Warum sehe ich nicht alle Einträge oder Abwesenheiten im digitalen Klassenbuch?**](#warum-sehe-ich-nicht-alle-einträge-oder-abwesenheiten-im-digitalen-klassenbuch)
   - [📖 Anleitungen](#-anleitungen)
 
 ## Allgemeines & Anmeldung
@@ -64,8 +70,8 @@ Klassenbucheinträge sind Einträge abseits der Lerninhalte, die Lehrkräft im d
 Bitte beachten Sie, dass nicht alle Einträge sichtbar sind.
 
 ### **Warum sehe ich nicht alle Einträge oder Abwesenheiten im digitalen Klassenbuch?**
-Die Sichtbarkeit von Einträgen und Abwesenheiten im digitalen Klassenbuch hängt von den Einstellungen in der jeweiligen Ansicht ab. Häufig sind Einträge nach bestimmten Zeiträumen oder Kategorien gefiltert. Stellen Sie sicher, dass Sie die richtigen Filteroptionen ausgewählt haben, um alle relevanten Informationen anzuzeigen. 
-Unter [Überblick über die Benutzeroberfläche](overview.md) finden Sie Hinweise zur Navigation und den Filteroptionen im digitalen Klassenbuch.
+Die Sichtbarkeit von Einträgen und Abwesenheiten im digitalen Klassenbuch hängt von den Einstellungen in der jeweiligen Ansicht ab. **Häufig sind Einträge nach bestimmten Zeiträumen oder Kategorien gefiltert.** Stellen Sie sicher, dass Sie die richtigen Filteroptionen ausgewählt haben, um alle relevanten Informationen anzuzeigen. 
+Unter [Überblick über die Benutzeroberfläche](overview.md) finden Sie Hinweise zur Navigation im digitalen Klassenbuch.
 
 ---
 

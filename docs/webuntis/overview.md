@@ -1,3 +1,3 @@
 # Überblick über die Benutzeroberfläche
 
-*Inhalt folgt*
+![Webuntis Überblick](overview.png)
