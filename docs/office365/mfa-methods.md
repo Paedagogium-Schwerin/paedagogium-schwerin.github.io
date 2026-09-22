@@ -4,11 +4,12 @@ Die Zwei-Faktor-Authentifizierung (MFA) ist ein Sicherheitsmechanismus, der eine
 
 ## Microsoft Authenticator App
 - **Beschreibung:** Die Microsoft Authenticator App generiert Einmalcodes, die zur Anmeldung verwendet werden können. Sie kann auch Push-Benachrichtigungen senden, um die Anmeldung zu bestätigen.
-- **Vorteile:** Schnell, sicher und bequem. Keine Notwendigkeit, SMS zu empfangen oder Anrufe zu tätigen. Einrichtung auf mehreren Geräten ist problemlos möglich.
+- **Vorteile:** Schnell, sicher und bequem. Keine Notwendigkeit, einen Code einzugeben. Einrichtung auf mehreren Geräten ist problemlos möglich.
 - **Nachteil:** Erfordert eine zusätzliche App.
 
 ## Andere Authenticator Apps
-- **Beschreibung:** Neben der Microsoft Authenticator App können auch andere Authenticator Apps wie Google Authenticator, die meisten Passwortmanager oder andere Sicherheitsanwendungen verwendet werden, die ebenfalls Einmalcodes generieren.
+- **Beschreibung:** Neben der Microsoft Authenticator App können auch andere Authenticator Apps wie Google Authenticator, die meisten Passwortmanager oder andere Sicherheitsanwendungen verwendet werden, die ebenfalls Einmalcodes generieren. 
+- **Hinweis:** Die Einrichtung dieser ist etwas versteckt. Zuerst auf Microsoft Authenticator App klicken, dann auf "Ich möchte eine andere Authenticator-App verwenden" und den QR-Code mit der gewünschten App scannen.
 - **Vorteile**: Flexibilität bei der Wahl der App, ebenso schnell und sicher wie die Microsoft Authenticator App. Einrichtung auf mehreren Geräten ist oft über Cloud-Synchronisierung möglich.
 - **Nachteil:** Erfordert eine zusätzliche App und mehr Einrichtungsschritte.
 
