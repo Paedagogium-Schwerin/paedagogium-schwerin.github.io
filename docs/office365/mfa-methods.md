@@ -14,7 +14,7 @@ Die Zwei-Faktor-Authentifizierung (MFA) ist ein Sicherheitsmechanismus, der eine
 - **Nachteil:** Kann eine zusätzliche App und mehr Einrichtungsschritte erfordern.
 
 ## E-Mail
-- **Beschreibung:** Ein Einmalcode wird an die hinterlegte **private** E-Mail-Adresse gesendet, die zur Anmeldung verwendet werden kann. 
+- **Beschreibung:** Ein Einmalcode wird an die hinterlegte **private** E-Mail-Adresse gesendet.
 - **Vorteile:** Einfach zu verwenden, keine zusätzliche App erforderlich.
 - **Nachteil:** Weniger sicher als andere Methoden, da E-Mail-Konten anfällig für Phishing-Angriffe sein können. Außerdem kann es zu Verzögerungen bei der Zustellung kommen und es ist ein privates E-Mail-Konto erforderlich.
   
