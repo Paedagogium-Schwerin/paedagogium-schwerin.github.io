@@ -1,5 +1,8 @@
 # iPad Einrichtung und Verwaltung
 
+> Hinweis: Apple hat mit iPadOS 27 die Möglichkeiten zur Verwaltung von Kinderaccounts erweitert. Das neue Betriebssystem wird voraussichtlich im Herbst 2026 veröffentlicht. Daher können die hier genannten Links in Zukunft nicht mehr aktuell sein. Die Informationen auf dieser Seite werden zeitnah überarbeitet.
+
+
 Auf dieser Seite finden Sie Informationen und Tipps zur Einrichtung und Verwaltung von iPads, die in den iPad-Klassen am Pädagogium verwendet werden.
 Die Anleitungen auf dieser Seite beziehen sich teilweise auf Geräte auf Werkseinstellungen. Falls Sie ein Gerät zurücksetzen wollen, können Sie dieser Frage nachgehen: [Was mache ich, wenn das Gerät nicht mehr funktioniert?](help.md#was-mache-ich-wenn-das-geraet-nicht-mehr-funktioniert).
 
